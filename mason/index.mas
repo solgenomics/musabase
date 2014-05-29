@@ -1,0 +1,63 @@
+<%args>
+$schema
+$static_content_path => undef
+$show_accept_dialog => undef
+</%args>
+
+<& /util/import_javascript.mas, classes=>[ "jquery", "jqueryui", "jquery.cookie"] &>
+
+<table cellpadding="0">
+
+<tr><td colspan="2">
+<& homepage/iconmenu.mas &>
+</td></tr>
+
+<tr>
+<td colspan="2">
+
+<& /util/include_file.mas, file=>  $static_content_path."/general_info.txt" &>
+
+<& /homepage/usage_popup.mas &>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="300">
+
+
+
+<& homepage/news.mas &>
+
+<div class="boxbgcolor1" style="margin:0px; ">
+<div class="boxheading">News Feed</div>
+<div class="boxcontent">
+
+<& /feed/xmlfeed.mas, uri=>"http://meltwaternews.com/magenta/xml/html/42/93/rss/v2_412463.rss2.XML" &><br />
+</div>
+</div>
+
+</td><td width="300" valign="top">
+<div class="boxbgcolor1" style="margin:0px;">
+<div class="boxheading">Community</div>
+<div class="boxcontent">
+<a href="/forum/topics.pl">CassavaBase Forum</a><br />
+<a href="http://cassavabase.wikispaces.com">Cassava Wiki</a><br />
+<a href="http://rubisco.sgn.cornell.edu/cgi-bin/mailman/listinfo/cassava-discussion">Cassava Discussion Mailing List</a><br />
+</div>
+</div>
+<& homepage/events.mas &>
+<& homepage/publication_of_the_week.mas &><br />
+
+
+</td></tr>
+
+
+</table>
+
+
+
+
+
+
