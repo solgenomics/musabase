@@ -6,7 +6,52 @@ $show_accept_dialog => undef
 
 <center>
 <br/>
-<& homepage/iconmenu.mas &>
+<& homepage/carousel.mas &>
 <br/>
 </center>
 
+
+<br/>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-6 col-md-6 col-lg-6">
+      
+      <div class="panel panel-info">
+        <div class="panel-heading">News</div>
+        <div class="panel-body" style="overflow:hidden">
+          <& homepage/news.mas &>
+        </div>
+      </div>
+      
+     <div class="panel panel-info">
+        <div class="panel-heading">SGN Featured</div>
+    	  <table class="table table-hover table-striped">
+    	    <tbody>
+    	      <tr><td><div class="container-fluid"><& homepage/publication_of_the_week.mas &></div></td></tr>
+    	    </tbody>
+    	  </table>
+      </div>
+      
+    </div>
+      
+      <div class="col-sm-6 col-md-6 col-lg-6">
+        
+        <div class="panel panel-info">
+          <div class="panel-heading">Events</div>
+          <div class="panel-body" style="overflow:hidden">
+            <& homepage/events.mas &>
+          </div>
+        </div>
+
+        
+        <div class="panel panel-info">
+          <div class="panel-heading">Links</div>
+          <div class="panel-body" style="overflow:hidden">
+            <& homepage/other_links.mas &>
+          </div>
+        </div>
+        
+      </div>
+      
+  </div>
+</div>
