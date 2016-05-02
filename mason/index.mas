@@ -51,6 +51,13 @@ $show_accept_dialog => undef
         </div>
         
       </div>
-      
+
+<div class="boxbgcolor1" style="margin:0px; ">
+<div class="boxheading">News Feed</div>
+<div class="boxcontent">
+
+<& /feed/xmlfeed.mas, uri=>"http://www.banana.go.ug/index.php/publications?format=feed&type=rss" &><br />
+</div>
+</div>      
   </div>
 </div>
