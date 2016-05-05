@@ -1,49 +1,19 @@
 
 <& /page/page_title.mas, title=>"MusaBase Help" &>
 
+<div>MusaBase is a breeding database implementing tools to manage data and next-generation breeding protocols based on high density marker data for banana species used as major food sources in Africa.</div>
 
-The complete MusaBase help is available from the Cassava site at the <a href="http://cassavabase.wikispaces.com">CassavaBase Wiki</a>.
-<br />
-For frequently asked questions, see the <a href="/help/faq">FAQ page</a>.
+<h3>Manual</h3>
 
-<h4>Basic functions</h4>
-<ul>
-<li><a href="http://cassavabase.wikispaces.com/Create+account">Create account</a></li>
+<div>The MusaBase manual is available as a <a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY">Google Doc</a>. It was written for CassavaBase but MusaBase is based on CassavaBase, so the manual applies to MusaBase as well.</div>
 
-<li><a href="http://cassavabase.wikispaces.com/Manage+account">Manage account</a></li>
+<h3>FAQ</h3>
 
-<li><a href="http://cassavabase.wikispaces.com/Lists">Lists</a></li>
-</ul>
+<div>For frequently asked questions, see the <a href="/help/faq">FAQ page</a>.</div>
 
+<h3>SlideShare</h3>
 
-
-<h4>Managing Breeding Functions</h4>
-<ul>
-<li><a href="http://cassavabase.wikispaces.com/Enter+trial+data">Create Trials</a></li>
-
-<li><a href="http://cassavabase.wikispaces.com/Add+stocks">Add stocks</a></li>
-
-<li><a href="http://cassavabase.wikispaces.com/Enter+location+data">Enter location Data</a></li>
-
-<li><a href="http://cassavabase.wikispaces.com/Add+phenotype+data+in+bulk">Add phenotype data in bulk</a></li>
-
-<li>Entering cross information</li>
-
-<li>Manage field layouts</li>
-</ul>
+<div>SlideShare has <a href="http://www.slideshare.net/solgenomics">a collection of slide decks</a> about the related <a href="https://solgenomics.net">SGN</a> and <a href="https://cassavabase.org">CassavaBase</a> databases.
 
 
-<h4>Genomic Selection using solGS</h4>
-<ul>
-<li>Create prediction models</li>
 
-<li>Make predictions</li>
-</ul>
-
-
-<h4>Barcode Functions</h4>
-<ul>
-<li>Print barcodes for selected accessions and plots</li>
-
-<li>Print barcode tools</li>
-</ul>
