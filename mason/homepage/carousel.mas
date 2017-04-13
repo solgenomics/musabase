@@ -1,78 +1,237 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+
+    <!-- Indicators -->
+    <ol class="carousel-indicators" style="display:none">
+      <li data-target="#myCarousel" data-slide-to="0"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+		<div class="item">
+                        <div style="background:url(/documents/img/musabase/carousel/germplasm_trial_pics.jpg) center center; background-size:cover;" class="slider-size">
+                                <div class="carousel-sgn-caption">
+                                <h3><a href="/breeders/manage_programs/"> Breeding programs</a></h3>
+                                <p><a target="_blank">Search, retrieve, save breeding trials</a></p>
+                   </div>
+
+                   <div class="carousel-sgn-links">
+                         <ul class="sgn_sm_list">
+                                <li><a href="/breeders/manage_programs"> Design and create breeding trials</a></li>
+                                <li><a href="/breeders/accessions"> Upload accessions</a></li>
+                                <li><a href="/breeders/crosses"> Make crosses</a></li>
+                                <li><a href="http://www.slideshare.net/solgenomics/3d-cassavabase-workshop-manage-fieldtrial"_blank"> Manage trials tutorials @ SGN</a></li>
+                         </ul>
+                   </div>
+         	  </div>
+      		 </div>
+
+
+                <div class="item">
+                        <div style="background:url(/documents/img/musabase/carousel/GS_2014.jpg) center center; background-size:cover;" class="slider-size">
+                                <div class="carousel-sgn-caption">
+                                <h3><a href="/breeders/phenotyping/"> Phenotyping</a></h3>
+                                <p><a target="_blank">Phenotypic data collection and upload in Musabase</a></p>
+                   </div>
+
+                   <div class="carousel-sgn-links">
+                         <ul class="sgn_sm_list">
+                                <li><a href="/breeders/phenotyping/">Upload phenotypes</a></li>
+                                <li><a href="/fieldbook">Upload fieldbook</a></li>
+                                <li><a href="/breeders/download"> Download data with list</a></li>
+                                <li><a href="/breeders/search"> Download data with Wizard search</a></li>
+                                <li><a href="http://www.slideshare.net/solgenomics/cassavabase-video-wizard-search-and-list-management-demo"_blank"> Use search & list tutorials @ SGN</a></li>
+                         </ul>
+                   </div>
+         	  </div>
+		 </div>
+  
+    	         <div class="item">
+               	      <div style="background:url(/documents/img/musabase/carousel/mgis_slide_bckgd3.png) center center; background-size:cover;" class="slider-size">
+          	      	      <div class="carousel-sgn-caption">
+			      <p><a href="http://www.crop-diversity.org/mgis"> MGIS </a></p>
+                   </div>
+
+                   <div class="carousel-sgn-links">
+                       <ul class="sgn_sm_list">
+			     <li><a href="http://www.crop-diversity.org/mgis/accession-search"> Search accessions </a></li>
+              		     <li><a href="http://www.crop-diversity.org/mgis/organisations"> Search germplasm collection </a></li>
+              		     <li><a href="http://www.crop-diversity.org/mgis/taxonomy"> Taxonomy browser </a></li>
+            	      </ul>
+          	 </div>
+		</div>
+      	       </div>
+
+     	       <div class="item">
+                    <div style="background:url(/documents/img/musabase/carousel/banana_hub_slide_bckgd3.png) center center; background-size:cover;" class="slider-size">
+          	    	    <div class="carousel-sgn-caption">
+             		    <p><a href="http://www.nature.com/nature/journal/v488/n7410/full/nature11241.html">The banana (Musa acuminata) genome and the evolution of monocotyledonous plants</a></p>
+                </div>
+
+                <div class="carousel-sgn-links">
+                      <ul class="sgn_sm_list">
+              	      	    <li><a href="http://banana-genome-hub.southgreen.fr/jbrowse"> Browse the banana genome </a></li>
+              		    <li><a href="http://banana-genome-hub.southgreen.fr/blast"> BLAST search</a></li>
+              		    <li><a href="http://banana-genome-hub.southgreen.fr/download"> Download reference genome </a></li>
+              		    <li><a href="http://banana-genome-hub.southgreen.fr/download"> Download resequencing project data </a></li>
+            	     </ul>
+                </div>
+	       </div>
+      	      </div>
+
+              <div class="item">
+              	   <div style="background:url(/documents/img/musabase/carousel/arusha_meeting2016_grpic.jpg) center center; background-size:cover;" class="slider-size">
+            	   	  <div class="carousel-sgn-caption">
+                          <a href="http://eastafricanhighlandbananas.org" target="_blank">
+               		  <h3>East African Highland</h3>
+               		  <h3>bananas project<h3>
+               		  <h3>& Partners</h3>
+                 </div>
+
+	         <div class="carousel-sgn-links">
+                     <ul class="sgn_sm_list">
+                     	   <li><a href="https://www.biw.kuleuven.be/biosyst/plantenbiotechniek/tropical" target="_blank">KU Leuven </b> <img src="/documents/img/musabase/carousel/kuleuven_logo.png" width="20"></a></li>
+                	   <li><a href="http://www.bioversityinternational.org/research-portfolio/conservation-use-of-bananas-tree-crops/banana/" target="_blank">Bioversity International </b> <img src="/documents/img/musabase/carousel/bioversity_logo.jpg" width="20"></a></li>
+                	   <li><a href="http://www.rtb.cgiar.org/banana/" target="_blank">RTB program </b> <img src="/documents/img/musabase/carousel/rtb_logo_green.jpg" width="20"></a></li>
+                	   <li><a href="http://www.naro.go.ug/" target="_blank">NARO Uganda</a></li>
+                	   <li><a href="http://bti.cornell.edu/staff/dr-lukas-mueller/"_blank">Mueller lab @BTI</a></li>
+              </ul>
+            </div>
+	   </div>
+	  </div>
+
+  <!-- Wrapper for slides end-->
+    
+  <div class="progress" style="height:5px">
+    <hr class="transition-timer-carousel-progress-bar" />
+  </div>
+
+  <!-- Left and right controls -->
+  <a id="prev_slide" class="left carousel-control" href="#myCarousel" role="button" data-slide="prev" style="color:white;">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a  id="next_slide" class="right carousel-control" href="#myCarousel" role="button" data-slide="next" style="color:white;">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
+
+<ul id="btn_carousel_indicators" class="nav nav-pills nav-justified sgn_carousel_button_group">
+  <li class="active"><a data-target="#myCarousel" data-slide-to="0">Breeding</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="1">Phenotyping</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="2">Germplasm</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="3">Genomics</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="4">Community</a></li>
+</ul>
+
 <style>
+	.sgn_carousel_button_group {
+	 margin-left: 10px;
+	 margin-top: 10px;
+	 width:98% !important;
+	}
+	
+	.slider-size {
+	 height: 400px; /* This is your slider height */
+	}
+	.carousel {
+	 max-width:98%;
+	 /*width:100%;*/
+	 margin:0 auto; /* center your carousel if other than 100% */
+	 margin-bottom:0px;
+	}
 
-.slider-size {
-  height: 400px; /* This is your slider height */
-}
-.carousel {
-  max-width:98%;
-  /*width:100%;*/
-  margin:0 auto; /* center your carousel if other than 100% */
-  margin-bottom:0px;
-}
+	.carousel-sgn-caption {
+	 position:relative;
+	 float: left;
+	 max-width:49%;
+	 min-width:35%;
+	 padding: 0px 10px 0px 10px;
+	 margin-top:20px;
 
-.carousel-sgn-caption { 
-  position:relative;
-  float: left;
-  max-width:49%;
-  min-width:35%;
-  padding: 0px 10px 0px 10px;
-  margin-top:20px;
+    	 color: #444;
+         font-size: 16px;
+         text-decoration: none;
+	 background-color: #fff;
+	 opacity: 0.80;
+	 filter: alpha(opacity=80); /* For IE8 and earlier */
+	 border-top-right-radius:12px;
+  	 border-bottom-right-radius:12px;
+	}
 
-  color: #000;
-  font-size: 16px;
-  text-decoration: none;
-  background-color: #fff;
-  opacity: 0.80;
-  filter: alpha(opacity=80); /* For IE8 and earlier */
-  border-top-right-radius:12px;
-  border-bottom-right-radius:12px;
-}
+       .carousel-sgn-caption a {
+        color: #444;
+        text-decoration: none;
+       }
 
-.carousel-sgn-caption a { 
-  color: #000;
-  text-decoration: none;
-  text-align: left;
-}
+      .carousel-sgn-caption a:hover {
+        color: #00426c;
+	text-decoration: none;
+       }
 
-.carousel-sgn-caption a:hover { 
-  color: #666;
-  text-decoration: none;
-}
+      .carousel-sgn-links {
+	position:absolute;
+	min-width:35%;
+	max-width:49%;
+	margin-top:20px;
+	right:0px;
+	text-align: left;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #fff;
+	opacity: 0.85;
+	filter: alpha(opacity=85); /* For IE8 and earlier */
+	border-top-left-radius:12px;
+	border-bottom-left-radius:12px;
+       }
 
-.carousel-sgn-links {
-  position:absolute;
-  min-width:35%;
-  max-width:49%;
-  margin-top:20px;
-  right:0px;
-  text-align: left;
+       .carousel-sgn-links ul {
+	padding: 10px 0px 0px 15px;
+	list-style-type: none;
+       }
 
-  color: #000;
-  font-size: 16px;
-  text-decoration: none;
-  background-color: #fff;
-  opacity: 0.85;
-  filter: alpha(opacity=85); /* For IE8 and earlier */
-  border-top-left-radius:12px;
-  border-bottom-left-radius:12px;
-}
+       .carousel-sgn-links a {
+	color: #000;
+	text-decoration: none;
+       }
 
-.carousel-sgn-links ul { 
-  padding: 10px 30px 0px 15px;
-  list-style-type: none;
-}
+       .carousel-sgn-links a:hover {
+	color: #666;
+	text-decoration: none;
+       }
 
-.carousel-sgn-links a { 
-  color: #000;
-  text-decoration: none;
-}
+       .sgn_sm_list {
+        color: #444;
+    	width: 100%;
+	text-align: left;
+    	padding: 0px;
+    	padding-left: 5px;
+       }
 
-.carousel-sgn-links a:hover { 
-  color: #666;
-  text-decoration: none;
-}
+       .sgn_sm_list li {
+        color: #444;
+    	width: 100%;
+    	padding: 0px;
+    	padding-left: 5px;
+    	padding-right: 5px;
+       }
 
-@media (min-width: 0px) and (max-width: 650px) {
+       .sgn_sm_list li:hover {
+        color: #00426c;
+       }
+
+  #btn_carousel_indicators {
+    cursor: pointer;
+  }
+
+  @media (min-width: 0px) and (max-width: 768px) {
 
     .carousel-sgn-caption {
       margin-top:0px;
@@ -81,23 +240,81 @@
       border-radius:0px;
       float: none;
       margin-bottom:0px;
+      opacity: 0.90;
     }
 
     .carousel-sgn-links {
+      background-color: #efefef;
       max-width: 100%;
       width: 100%;
       border-radius:0px;
-      bottom:30px;
-    }
-    
-    .carousel-indicators {
       bottom:0px;
-      margin-bottom:5px;
+      opacity: 0.9;
     }
 
-}
+    .carousel-sgn-links ul {
+      padding: 0px;
+      margin-bottom: 0px;
+      }
 
+    .sgn_sm_list li {
+      color: #00426c;
+      width: 100%;
+      position: relative;
+      display: block;
+      padding: 0px;
+      padding-left: 5px;
+      border: 1px solid #ddd;
+    }
 
+    .sgn_sm_list li:hover {
+      color: #444;
+        background-color: #fff;
+      opacity: 1;
+    }
+
+/*    .carousel-indicators {
+      bottom:0px;
+      margin-bottom: 0px;
+      width:100%;
+      left:auto;
+      margin-left:auto;
+    }
+*/
+    .nav-pills>li>a {
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    .sgn_carousel_button_group {
+      margin-left: 5px;
+      		   margin-top: 5px;
+  		   	       width:98% !important;
+  			       }
+
+			       }
+
+			       .carousel-control {
+			       			 height:100px;
+							margin-top:170px
+							}
+  
+  .transition-timer-carousel-progress-bar {
+      height: 4px;
+      background-color: #337ab7;
+      width: 0;
+      margin: 0 0 0 0;
+      border: none;
+      z-index: 11;
+      position: relative;
+      border-radius: 0px;
+  }
+  
+  .progress {
+    margin-top: 5px;
+    border-radius: 0px;
+  }
+  
 </style>
 
 <!--
@@ -107,176 +324,100 @@
 <script>
 
   jQuery(document).ready(function() {
-  //   $('.carousel').carousel({
-  //     interval: 20000,
-  //     // wrap:true
-  //   });
-    
-    
-    var $item = $('.carousel .item');
-    var $wHeight = $(window).height();
 
-    var $numberofSlides = $('.item').length;
-    var $currentSlide = Math.floor((Math.random() * $numberofSlides));
+    var $item = $('.carousel .item');
+    // var $wHeight = $(window).height();
+
+    var numberofSlides = $('.item').length;
+    var randomSlide = Math.floor((Math.random() * numberofSlides));
+    var currentSlide = randomSlide;
 
     $('.carousel-indicators li').each(function(){
       var $slideValue = $(this).attr('data-slide-to');
-      if($currentSlide == $slideValue) {
+      if (randomSlide == $slideValue) {
         $(this).addClass('active');
         $item.eq($slideValue).addClass('active');
       } else {
         $(this).removeClass('active');
         $item.eq($slideValue).removeClass('active');
       }
-    }); 
-
-    $('.carousel').carousel({
-      interval: 20000,
-      wrap: "true",
-      pause: "false"
     });
-    
-   
-    //$("#myCarousel").swiperight(function() {  
-    //      $("#myCarousel").carousel('prev');  
-    //    });  
-    //   $("#myCarousel").swipeleft(function() {  
-    //      $("#myCarousel").carousel('next');  
-    //   });  
 
+    $('#btn_carousel_indicators a').each(function(){
+      var $slideValue = $(this).attr('data-slide-to');
+      // alert("currentSlide: "+$currentSlide+", slideValue: "+$slideValue)
+      if (randomSlide == $slideValue) {
+        $(this).parent().addClass('active');
+      } else {
+        $(this).parent().removeClass('active');
+      }
+    });
+
+    $('#myCarousel').bind('slid.bs.carousel', function (e) {
+      $('.carousel-indicators li').each(function(){
+        if ($(this).hasClass('active')) {
+          currentSlide = $(this).attr('data-slide-to');;
+        }
+      });
+
+      $('#btn_carousel_indicators li').removeClass('active');
+
+      $('#btn_carousel_indicators a').each(function(){
+        var $slideValue = $(this).attr('data-slide-to');
+        // alert("currentSlide: "+currentSlide+", slideValue: "+$slideValue)
+        if(currentSlide == $slideValue) {
+          $(this).parent().addClass('active');
+        }
+      });
+
+    });
+
+    // touch screen
+       //     $("#myCarousel").swiperight(function() {
+       	      //       $("#myCarousel").carousel('prev');
+	      	       //     });
+		       	      //
+				// $("#myCarousel").swipeleft(function() {
+				   //       $("#myCarousel").carousel('next');
+				   	    //     });
        
-       $(".ui-loading").css("display","none");
-       $(".ui-loader").css("display","none");
+    
+    
+    
+  //progress bar
+  var percent = 0,
+      interval = 50,//time showing each slide
+    $bar = $('.transition-timer-carousel-progress-bar'),
+    $crsl = $('#myCarousel');
+
+    $crsl.carousel({//initialize
+      interval: false,
+      pause: true
+    }).on('slide.bs.carousel', function (){percent = 0;});//restart progress bar on new slide
+    
+    function progressBarCarousel() {
+      $bar.css({width:percent+'%'});
+	percent = percent +0.5;
+  		if (percent>=100) {
+  		   		  percent=0;
+						$crsl.carousel('next');
+							}
+  							}
+  							var barInterval = setInterval(progressBarCarousel, interval);//set interval to progressBarCarousel function
+    if (!(/Mobi/.test(navigator.userAgent))) {//tests if it isn't mobile, progress bar stop on mouse over slide
+      $crsl.hover(function(){
+            clearInterval(barInterval);
+          },
+          function(){
+            barInterval = setInterval(progressBarCarousel, interval);
+          }
+      );
+    }
+    
+    
+    
+    
+    $(".ui-loading").css("display","none");
+    $(".ui-loader").css("display","none");
   });
 </script>
-
-	<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-		<!-- Indicators -->
-		<ol class="carousel-indicators">
-		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-		<li data-target="#myCarousel" data-slide-to="1"></li>
-		<li data-target="#myCarousel" data-slide-to="2"></li>
-		<li data-target="#myCarousel" data-slide-to="3"></li>
-		<li data-target="#myCarousel" data-slide-to="4"></li>
-
-		<br>
-		<a href="" style="color:#fff; font-style:italic">Photo credit: MuellerLab. </a>
-		</ol>
-
-		<!-- Wrapper for slides -->
-		<div class="carousel-inner" role="listbox">
-
-		 <div class="item">
-			<div style="background:url(/documents/img/musabase/carousel/germplasm_trial_pics.jpg) center center; background-size:cover;" class="slider-size">
-				<div class="carousel-sgn-caption">
-				<h3><a href="/breeders/manage_programs/"> Breeding programs</a></h3>
-				<p><a target="_blank">Search, retrieve, save breeding trials</a></p>
-		   </div>
-		   
-		   <div class="carousel-sgn-links">
-			 <ul>
-				<li><a href="/breeders/manage_programs"> Design and create breeding trials</a></li>
-				<li><a href="/breeders/accessions"> Upload accessions</a></li>
-				<li><a href="/breeders/crosses"> Make crosses</a></li>
-				<li><a href="http://www.slideshare.net/solgenomics/3d-cassavabase-workshop-manage-fieldtrial"_blank"> Manage trials tutorials @ SGN</a></li>
-				
-			 </ul>
-		   </div>
-		
-         </div>
-        </a>
-      </div>
-
-		
-		 <div class="item">
-			<div style="background:url(/documents/img/musabase/carousel/GS_2014.jpg) center center; background-size:cover;" class="slider-size">
-				<div class="carousel-sgn-caption">
-				<h3><a href="/breeders/phenotyping/"> Phenotyping</a></h3>
-				<p><a target="_blank">Phenotypic data collection and upload in Musabase</a></p>
-		   </div>
-		   
-		   <div class="carousel-sgn-links">
-			 <ul>
-				<li><a href="/breeders/phenotyping/">Upload phenotypes</a></li>
-				<li><a href="/fieldbook">Upload fieldbook</a></li>
-				<li><a href="/breeders/download"> Download data with list</a></li>
-				<li><a href="/breeders/search"> Download data with Wizard search</a></li>
-				<li><a href="http://www.slideshare.net/solgenomics/cassavabase-video-wizard-search-and-list-management-demo"_blank"> Use search & list tutorials @ SGN</a></li>
-
-			 </ul>
-		   </div>
-		
-         </div>
-        </a>
-      </div>
-
-
-     <div class="item">
-        <div style="background:url(/documents/img/musabase/carousel/mgis_slide_bckgd3.png) center center; background-size:cover;" class="slider-size">
-          <div class="carousel-sgn-caption">
-             <p><a href="http://www.crop-diversity.org/mgis"> MGIS </a></p>
-          </div>
-        
-          <div class="carousel-sgn-links">
-            <ul>
-              <li><a href="http://www.crop-diversity.org/mgis/accession-search"> Search accessions </a></li>
-              <li><a href="http://www.crop-diversity.org/mgis/organisations"> Search germplasm collection </a></li>
-              <li><a href="http://www.crop-diversity.org/mgis/taxonomy"> Taxonomy browser </a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-   
-     <div class="item">
-        <div style="background:url(/documents/img/musabase/carousel/banana_hub_slide_bckgd3.png) center center; background-size:cover;" class="slider-size">
-          <div class="carousel-sgn-caption">
-             <p><a href="http://www.nature.com/nature/journal/v488/n7410/full/nature11241.html">The banana (Musa acuminata) genome and the evolution of monocotyledonous plants</a></p>
-          </div>
-        
-          <div class="carousel-sgn-links">
-            <ul>
-              <li><a href="http://banana-genome-hub.southgreen.fr/jbrowse"> Browse the banana genome </a></li>
-              <li><a href="http://banana-genome-hub.southgreen.fr/blast"> BLAST search</a></li>
-              <li><a href="http://banana-genome-hub.southgreen.fr/download"> Download reference genome </a></li>
-              <li><a href="http://banana-genome-hub.southgreen.fr/download"> Download resequencing project data </a></li>
-            </ul>
-          </div>
-        </div>
-      </div>     
-
-	 <div class="item">
-          <div style="background:url(/documents/img/musabase/carousel/arusha_meeting_2016_HD2.jpg) center center; background-size:cover;" class="slider-size">
-            <div class="carousel-sgn-caption">
-              <a href="http://eastafricanhighlandbananas.org" target="_blank">
-               <h3>East African Highland</h3>
-               <h3>bananas project<h3>
-               <h3>& Partners</h3>
-              </a>
-            </div>
-            
-            <div class="carousel-sgn-links">
-              <ul>
-				<li><a href="https://www.biw.kuleuven.be/biosyst/plantenbiotechniek/tropical" target="_blank">KU Leuven </b> <img src="/documents/img/musabase/carousel/kuleuven_logo.png" width="20"></a></li> 
-				<li><a href="http://www.bioversityinternational.org/research-portfolio/conservation-use-of-bananas-tree-crops/banana/" target="_blank">Bioversity International </b> <img src="/documents/img/musabase/carousel/bioversity_logo.jpg" width="20"></a></li>
-                <li><a href="http://www.rtb.cgiar.org/banana/" target="_blank">RTB program </b> <img src="/documents/img/musabase/carousel/rtb_logo_green.jpg" width="20"></a></li>
-                <li><a href="http://www.naro.go.ug/" target="_blank">NARO Uganda</a></li>
-                <li><a href="http://bti.cornell.edu/staff/dr-lukas-mueller/"_blank">Mueller lab @BTI</a></li>
-
-                
-              </ul>
-            </div>
-            
-
-
-    </div>
-
-    <!-- Left and right controls -->
-    <!-- <a id="prev_slide" class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a  id="next_slide" class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a> -->
-  </div>
