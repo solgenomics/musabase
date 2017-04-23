@@ -1,6 +1,6 @@
 
-<div id="usage_policy"> <h4>Cassavabase adheres to the Toronto agreement on prepublication data release</h4>
-All data deposited on cassavabase adheres to the Toronto Agreement on prepublication data release. To foster transparent and accessible data sharing culture, in accordance with the Toronto Agreement, all data deposited on cassavabase will be made public immediately. Data producers can provide information on the data they deposit, including planned analyses and publication timeline information, to indicate their publication intentions. Data users are expected to respect scientific etiquette and allow data producers the first global analyses of their data set, and should be aware that pre-publication data may not have been subject to full quality control and peer review, so caution must be applied when utilizing these data. More information is available on the <a href="/usage_policy">data usage policy</a> page.</div>
+<div id="usage_policy"> <h4>Musabase adheres to the Toronto agreement on prepublication data release</h4>
+All data deposited on Musabase adheres to the Toronto Agreement on prepublication data release. To foster transparent and accessible data sharing culture, in accordance with the Toronto Agreement, all data deposited on Musabase will be made public immediately. Data producers can provide information on the data they deposit, including planned analyses and publication timeline information, to indicate their publication intentions. Data users are expected to respect scientific etiquette and allow data producers the first global analyses of their data set, and should be aware that pre-publication data may not have been subject to full quality control and peer review, so caution must be applied when utilizing these data. More information is available on the <a href="/usage_policy">data usage policy</a> page.</div>
 
 <style type="text/css">
   .no-close .ui-dialog-titlebar-close { 
@@ -19,7 +19,7 @@ All data deposited on cassavabase adheres to the Toronto Agreement on prepublica
       dialogClass: "no-close",
       autoOpen: false,
   buttons: { 
-        "Don't agree": function() { document.location.href="http://nextgencassava.org"; } , 
+        "Don't agree": function() { document.location.href="http://google.com"; } , 
         "Agree": function() { jQuery.cookie("website_usage_policy_approved", "1", { expires: 10000 } ); jQuery(this).dialog("close") } 
 }
     });
@@ -27,7 +27,7 @@ All data deposited on cassavabase adheres to the Toronto Agreement on prepublica
 
 
   if (jQuery.cookie("website_usage_policy_approved") == 1) { 
-    document.write('<br />You have already accepted the <a href="/usage_policy">website usage policy</a>. Thank you.<br />');
+    document.write('You have already accepted the <a href="/usage_policy">website usage policy</a>. Thank you.<br />');
   }
 
   window.onload=function() { 
