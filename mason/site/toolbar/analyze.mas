@@ -1,4 +1,4 @@
-<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown" href="/tools/">Analyze</a>
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">Analyze</a>
 <!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Genomes<span class="caret"></span></a> -->
   <ul class="dropdown-menu">
     <li class="dropdown-header">Breeder Tools</li>
@@ -6,7 +6,7 @@
     <li><a href="/selection/index">Selection Index</a></li>
     <li><a href="/solgs/search">Genomic Selection</a></li>
     <li><a href="/accession_usage">Accession Usage</a></li>
-
+    <li><a href="/tools/trial/comparison/list">Compare Trials</a></li>
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Sequence Analysis</li>
     <li><a href="/tools/blast/">BLAST</a></li>
