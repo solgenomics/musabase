@@ -14,64 +14,61 @@ $phenotype_files => undef
 <br/>
 
 <div class="container-fluid">
-  <div class="row">
-    <div class="panel panel-info">
-      <div class="panel-heading">Website Usage Policy</div>
-      <div class="panel-body" style="overflow:hidden">
-	
-	<& homepage/usage_popup.mas &>
-      </div>
-    </div>
-  </div>
+  <center>
+    <& homepage/usage_popup.mas &>
+  </center>
 </div>
+
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-sm-6 col-md-6 col-lg-6">
-      
-      <div class="panel panel-info">
-        <div class="panel-heading">News</div>
-        <div class="panel-body" style="overflow:hidden">
-          <& homepage/news.mas &>
+    <div class="row">
+        <div class="col-sm-6 col-md-6 col-lg-6">
+
+            <div class="panel panel-info">
+                <div class="panel-heading">News</div>
+                <div class="panel-body" style="overflow:hidden">
+                    <& homepage/news.mas &>
+                </div>
+            </div>
+
+            <div class="panel panel-info">
+                <div class="panel-heading">Featured Publication</div>
+                <div class="panel-body" style="overflow:hidden">
+                    <& homepage/publication_of_the_week.mas &><br/>
+                </div>
+            </div>
+
         </div>
-      </div>
-      
-     <div class="panel panel-info">
-        <div class="panel-heading">Featured Publication</div>
-    	  <table class="table table-hover table-striped">
-    	    <tbody>
-    	      <tr><td><div class="container-fluid"><& homepage/publication_of_the_week.mas &></div></td></tr>
-    	    </tbody>
-    	  </table>
-     </div>
-     
+
+        <div class="col-sm-6 col-md-6 col-lg-6">
+
+            <div class="panel panel-info">
+                <div class="panel-heading">Events</div>
+                <div class="panel-body" style="overflow:hidden">
+                    <& homepage/events.mas &>
+                </div>
+            </div>
+
+            <div class="panel panel-info">
+                <div class="panel-heading">Links</div>
+                <div class="panel-body" style="overflow:hidden">
+                    <& homepage/other_links.mas &>
+                </div>
+            </div>
+
+        </div>
+
     </div>
-    
-    <div class="col-sm-6 col-md-6 col-lg-6">
-      
-      <div class="panel panel-info">
-        <div class="panel-heading">Events</div>
-        <div class="panel-body" style="overflow:hidden">
-          <& homepage/events.mas &>
-        </div>
-      </div>
-      
-      
-      <div class="panel panel-info">
-        <div class="panel-heading">Links</div>
-        <div class="panel-body" style="overflow:hidden">
-          <& homepage/other_links.mas &>
-        </div>
-      </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="panel panel-info">
+            <div class="panel-heading">News Feed</div>
+            <div class="panel-body">
+                <& /feed/xmlfeed.mas, uri=>"http://www.banana.go.ug/index.php/publications?format=feed&type=rss" &><br />
+            </div>
+        </div>      
     </div>
-  </div>
-  <div class="row">
-    <div class="panel panel-info">
-      <div class="panel-heading">News Feed</div>
-      <div class="panel-body">
-	<& /feed/xmlfeed.mas, uri=>"http://www.banana.go.ug/index.php/publications?format=feed&type=rss" &><br />
-      </div>
-    </div>      
-  </div>
 </div>
 
 <& homepage/github_pullrequests.mas &>
