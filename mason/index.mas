@@ -68,16 +68,6 @@ $timestamp
     </div>
 </div>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="panel panel-info">
-            <div class="panel-heading">News Feed</div>
-            <div class="panel-body">
-                <& /feed/xmlfeed.mas, uri=>"http://www.banana.go.ug/index.php/publications?format=feed&type=rss" &><br />
-            </div>
-        </div>      
-    </div>
-</div>
 
 <& homepage/github_pullrequests.mas &>
 
