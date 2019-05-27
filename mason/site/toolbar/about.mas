@@ -8,7 +8,8 @@
     <li role="separator" class="divider"></li>
 
     <li><a href="https://solgenomics.github.io/sgn/" class="footer">Manual (cassavabase)</a></li>
-    <li><a href="http://cassavabase.wikispaces.com/" class="footer">Wiki</a></li>    
+    <li><a href="/breeders/dbstats" class="footer">Database statistics</a></li>
+    
     <li><a href="/help/index.pl">Help</a></li>
     <li><a href="/help/faq.pl">FAQ</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
