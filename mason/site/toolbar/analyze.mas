@@ -9,6 +9,7 @@
     <li><a href="/tools/trial/comparison/list">Compare Trials</a></li>
     <li><a href="/tools/graphicalfiltering">Graphical Filtering</a></li>
     <li><a href="/tools/boxplotter">BoxPlotter</a></li>
+    <li><a href="/tools/image_analysis">Image Analysis</a></li>
 
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Sequence Analysis</li>
