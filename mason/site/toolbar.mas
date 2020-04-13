@@ -16,6 +16,7 @@
         <& toolbar/manage.mas &>
         <& toolbar/analyze.mas &>
         <& toolbar/maps.mas &>
+	<& toolbar/pathogens.mas &>
         <& toolbar/about.mas &>
       </ul>
       <ul class="nav navbar-nav navbar-right">
