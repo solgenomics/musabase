@@ -1,0 +1,12 @@
+
+<& /page/page_title.mas, title => "Sigatoka and Fusarium Collection Data" &>
+
+<div>These data have been collected by the BBB project, Altus Viljoen lab.</div>
+
+<div>
+<ul>
+<li><a href="/data/sigatoka_and_fusarium_collection/isolates_list_30.5.2019.xlsx">Isolates list (30.5.2019)(Excel file)</a></li>
+<li><a href="/data/sigatoka_and_fusarium_collection/collection_of_foc_from_5_locations_of_eca.xls">Collection data from 5 locations (Excel file)</a></li>
+
+</ul>
+</div>
