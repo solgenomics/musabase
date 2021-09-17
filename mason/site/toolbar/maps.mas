@@ -1,7 +1,12 @@
 <li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">Maps</a>
 <!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Tools<span class="caret"></span></a> -->
-  <ul class="dropdown-menu">
-    
+<ul class="dropdown-menu">
+
+    <li class="dropdown-header">Jbrowse Genome Browser</li>
+
+    <li><a href="/jbrowse_musabase/?data=data/json/Musa_acuminataV2">Musa acuminata genome</a></li>
+
+        <li role="separator" class="divider"></li>    
    
     
   </ul>
