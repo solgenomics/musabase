@@ -3,7 +3,6 @@
   <ul class="dropdown-menu">
     <li><a href="/analyses">Stored Analyses</a></li>
     <li role="separator" class="divider"></li>
-    <li><a href="/tools/mixedmodels">Mixed Models</a></li>
     <li><a href="/tools/trial/comparison/list">Compare Trials</a></li>
     <li><a href="/tools/graphicalfiltering">Graphical Filtering</a></li>
      
