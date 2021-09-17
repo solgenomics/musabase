@@ -6,12 +6,14 @@
     <li><a href="/breeders/locations">Locations</a></li>
     <li><a href="/breeders/accessions/">Accessions</a></li>
     <li><a href="/breeders/seedlots/">Seed Lots</a></li>
+    <li role="separator" class="divider"></li>
     <li><a href="/breeders/crosses/">Crosses</a></li>
     <li><a href="/breeders/trials/">Trials</a></li>
     <li><a href="/breeders/genotyping/">Genotyping Plates</a></li>
     <li><a href="/breeders/samples/">Tissue Samples</a></li>
     <li><a href="/fieldbook">Field Book App</a></li>
     <li><a href="/breeders/phenotyping/">Phenotyping</a></li>
+        <li role="separator" class="divider"></li>
     <li><a href="/barcode">Barcodes</a></li>
     <li><a href="/tools/label_designer">Label Designer</a></li>
     <li><a href="/breeders/download">Download</a></li>
