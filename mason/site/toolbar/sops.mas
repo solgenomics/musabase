@@ -1,0 +1,16 @@
+
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">SOPs</a>
+
+<ul class="dropdown-menu">
+
+  <!-- li class="dropdown-header"></li -->
+
+  <li><a href="/ftp/SOPs/Banana+nematode+screening+protocol+-+September+2021.pdf">Nematode screening</a></li>
+  <li><a href="/ftp/SOPs/Banana+weevil+screening+protocol+-+September+2021.pdf">Weevil screening</a></li>
+  <li><a href="/ftp/SOPs/Screening+for+resistance+to+Sigatoka+-+September+2021.pdf">Sigatoka resistance screening</a></li>
+  <li><a href="/ftp/SOPs/Screening+for+resistance+to+Xvn+-+September+2021+new.pdf">Xvm resistance screening</a></li>
+  
+
+    
+  </ul>
+</li>
