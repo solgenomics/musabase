@@ -5,12 +5,16 @@
 
   <!-- li class="dropdown-header"></li -->
 
-  <li><a href="/ftp/SOPs/Banana nematode screening protocol - September 2021.pdf">Nematode screening</a></li>
+  <!-- li><a href="/ftp/SOPs/Banana nematode screening protocol - September 2021.pdf">Nematode screening</a></li>
   <li><a href="/ftp/SOPs/Banana weevil screening protocol - September 2021.pdf">Weevil screening</a></li>
   <li><a href="/ftp/SOPs/Screening for resistance to Sigatoka - September 2021.pdf">Sigatoka resistance screening</a></li>
   <li><a href="/ftp/SOPs/Screening for resistance to Xvm - September 2021 new.pdf">Xvm resistance screening</a></li>
-  <li><a href="/ftp/SOPs/Glasshouse protocol for screening for resistance to FOC-R1 - 300921.pdf">FOC-R1 resistances screening (Glasshouse)</a></li>
-  
+  <li><a href="/ftp/SOPs/Glasshouse protocol for screening for resistance to FOC-R1 - 300921.pdf">FOC-R1 resistances screening (Glasshouse)</a></li -->
+  <li><a href="/ftp/SOPs/Phenotyping for FOC-R1 - 220822.pdf">Phenotyping for FOC-R1</a></li>
+  <li><a href="/ftp/SOPs/Sigatoka SOP - 220822.pdf">Phenotyping for Sigatoka</a></li>
+  <li><a href="/ftp/SOPs/SOP Phenotyping for R. similis resistance - 150722.pdf">Phenotyping for <i>R. similis</i></a></li>
+  <li><a href="/ftp/SOPs/Phenotyping for BXW - 220822.pdf">Phenotyping for BXW</a></li>
+  <li><a href="/ftp/SOPs/SOP phenotyping for C. sordidus resistance - 270722.pdf">Phenotyping for <i>C. sordidus</i> resistance</a></li>
 
     
   </ul>
