@@ -21,16 +21,16 @@
 	    	  <tbody>
             	    <tr>
               	      <td>
-                	<a href="http://bti.cornell.edu/" class="footer"><img width="100" alt="Boyce Thompson Institute" src="/documents/img/bti_logo2.gif" title="Boyce Thompson Institute" border="0" style="padding-top:5px"/></a>
+                	<a href="https://btiscience.org/" class="footer"><img width="160" alt="Boyce Thompson Institute" src="/documents/img/bti_logo_2024.gif" title="Boyce Thompson Institute" border="0" style="padding-top:5px"/></a>
               	      </td>
               	      <td>
-              	    <a href="http://www.iita.org/" class="footer"><img width="90" alt="IITA" src="/documents/img/IITA.png" title="IITA" border="0" style="padding-top:20px"/></a>
+              	    <a href="https://www.iita.org/" class="footer"><img width="90" alt="IITA" src="/documents/img/IITA.png" title="IITA" border="0" style="padding-top:20px"/></a>
               	      </td>
               	      <td>
-              	    <a href="http://www.naro.go.ug/" class="footer"><img width="80" alt="NARO" src="/documents/img/musabase/carousel/naro-logo.png" title="NARO" border="0" style="padding-top:5px"/></a>
+              	    <a href="https://www.naro.go.ug/" class="footer"><img width="80" alt="NARO" src="/documents/img/musabase/carousel/naro-logo.png" title="NARO" border="0" style="padding-top:5px"/></a>
               	      </td>
               	      <td>
-              	    <a href="http://www.rtb.cgiar.org/banana/" class="footer"><img width="200" alt="RTB" src="/documents/img/musabase/carousel/rtb_logo.jpg" title="CGIAR" border="0" style="padding-top:5px"/></a>
+              	    <a href="https://www.rtb.cgiar.org/banana/" class="footer"><img width="200" alt="RTB" src="/documents/img/musabase/carousel/rtb_logo.jpg" title="CGIAR" border="0" style="padding-top:5px"/></a>
               	      </td>
             	    </tr>
 	    	  </tbody>
@@ -38,16 +38,16 @@
 
 	        <ul class="visible-xs-block list-inline center nav-justified">
             	  <li>
-              	  <a href="http://bti.cornell.edu/" class="footer"><img width="100" alt="Boyce Thompson Institute" src="/documents/img/bti_logo2.gif" title="Boyce Thompson Institute" border="0" style="padding-top:5px"/></a>
+              	  <a href="https://btiscience.org/" class="footer"><img width="100" alt="Boyce Thompson Institute" src="/documents/img/bti_logo_2024.gif" title="Boyce Thompson Institute" border="0" style="padding-top:5px"/></a>
             	  </li>
             	  <li>
               	  <a href="http://www.iita.org/" class="footer"><img width="90" alt="IITA" src="/documents/img/IITA.png" title="IITA" border="0" style="padding-top:20px"/></a>
             	  </li>
             	  <li>
-              	  <a href="http://www.naro.go.ug/" class="footer"><img width="80" alt="NARO" src="/documents/img/musabase/carousel/naro-logo.png" title="NARO" border="0" style="padding-top:5px"/></a>
+              	  <a href="https://www.naro.go.ug/" class="footer"><img width="80" alt="NARO" src="/documents/img/musabase/carousel/naro-logo.png" title="NARO" border="0" style="padding-top:5px"/></a>
             	  </li>
             	  <li>
-              	  <a href="http://www.rtb.cgiar.org/banana/" class="footer"><img width="200" alt="RTB" src="/documents/img/musabase/carousel/rtb_logo.jpg" title="CGIAR" border="0" style="padding-top:5px"/></a>
+              	  <a href="https://www.rtb.cgiar.org/banana/" class="footer"><img width="200" alt="RTB" src="/documents/img/musabase/carousel/rtb_logo.jpg" title="CGIAR" border="0" style="padding-top:5px"/></a>
             	  </li>
           	</ul>
 	      </div>
