@@ -4,9 +4,9 @@
 
     <li class="dropdown-header">Jbrowse Genome Browser</li>
 
-    <li><a href="/jbrowse_musabase/?data=data/json/Musa_acuminataV2">Musa acuminata genome</a></li>
+    <li><a href="/jbrowse2_musabase/?data=data/json/Musa_acuminataV2">Musa acuminata genome</a></li>
 
-        <li role="separator" class="divider"></li>    
+            <!-- li role="separator" class="divider"></li -->
    
     
   </ul>
