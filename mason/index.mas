@@ -20,25 +20,6 @@ $timestamp
 
 <div class="container-fluid">
 
-     <div class="row">
-
-     <div class="col-sm-12 col-md-12 col-lg-12">
-
-<div class="warning" style="border: solid red 4px;">
-
-<center>
-<h2><font color="RED">IMPORTANT NOTICE</font></h2>
-
-<font size="4">315 Accessions have been merged according to this <a href="https://musabase.org/ftp/Merged_Accessions_2025_01_25.xlsx">spreadsheet</a>. Please use the new names (second column in the spreadsheet) for the accessions when designing experiments.</font>
-<br />
-<br />
-</center>
-</div>
-
-</div>
-
-
-
     <& /help/workflow_guided/begin.mas, breeding_programs=>$breeding_programs, locations=>$locations, preferred_species=>$preferred_species, editable_stock_props=>$editable_stock_props, timestamp=>$timestamp &>
 
   <center>
