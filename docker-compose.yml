@@ -1,0 +1,34 @@
+###version: "3.7"
+services:
+  breedbase:
+    image: breedbase/breedbase:latest
+    restart: always
+
+    deploy:
+      resources:
+        reservations:
+          memory: 50G
+        limits:
+          memory: 50G
+        
+    container_name: breedbase_web_musabase
+    ports:
+      - 8938:8080
+    volumes:
+       - type: bind
+         source: /home/production/musabase/sgn_local.conf
+         target: /home/production/cxgn/sgn/sgn_local.conf
+       - type: bind
+         source: /home/production/musabase
+         target: /home/production/cxgn/musabase
+       - type: bind
+         source: /export/prod/public_musabase
+         target: /home/production/volume
+       - type: bind
+         source: bash_history
+         target: /home/production/.bash_history
+       - type: bind
+         source: /home/production/sgn_for_musabase
+         target: /home/production/cxgn/sgn
+         
+
