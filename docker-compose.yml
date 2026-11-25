@@ -27,8 +27,8 @@ services:
        - type: bind
          source: bash_history
          target: /home/production/.bash_history
-       - type: bind
-         source: /home/production/sgn_for_musabase
-         target: /home/production/cxgn/sgn
+#       - type: bind
+#         source: /home/production/sgn_for_musabase
+#         target: /home/production/cxgn/sgn
          
 
